@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Adlinejainsha
-- 👀 I’m interested in solving problem 
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on google
-- 📫 How to reach me  by mail 
+👋 Hi, I’m Adline Jainsha 
+👀 I’m a Geek who is also interested in Photography/Videography
+🌱 I am familiar with C, C++, Java, HTML, Python.
+🎓 I'm currently pursuing my Degree in B.E. computer science and engineering
 
 <!---
 Adlinejainsha/Adlinejainsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
