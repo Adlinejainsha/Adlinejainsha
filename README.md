@@ -3,7 +3,7 @@
 <image align="centre" width="400" src="https://github.com/Adlinejainsha/Adlinejainsha/assets/138776941/0bec89a7-563a-4398-983a-c7f85a6fed38">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adlinejainsha" alt="adlinejainsha" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java,python,frontend developing**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think i'm entertainer for all**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> CONTACT ME IN OTHER WEBSITE:</h2>
 <p align="left">
 <a href="https://codepen.io/@adline-jainsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@adline-jainsha" height="30" width="40" /></a>
 <a href="https://dev.to/adline jainsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adline jainsha" height="30" width="40" /></a>
